@@ -1,14 +1,12 @@
-# hi👋! I'm David
+# Hi👋. I'm David.
 
-sveltekit warrior [definitely knows how to use links in MD](https://play.tailwindcss.com/GggrUxROua)
+sveltekit warrior [definitely knows link syntax in markdown](https://play.tailwindcss.com/rA2ed6t4ig).
 
-# projects
+# Cool stuff
 
 [weixingzhao.github.io](https://weixingzhao.github.io/)
-- used Tailwind CSS and Bootstrap to design a responsive, accessible, and professional-looking website.
-- Refactored Bootstrap carousel to Embla
+- used Tailwind CSS and Bootstrap to design a responsive, accessible, and professional website.
+- then refactored Bootstrap-dependent carousel to Embla.
 
 [reagan-schedule](https://reagan-schedule.github.io)
-- designed a central hub for bell schedule information while leveraging technologies like SvelteKit and Tailwind CSS.
-- adopted functional programming paradigms.
-- maximised the use of modern tsc features.
+- leveraged technologies like SvelteKit and Tailwind CSS in an all-encompassing bell schedule app.
