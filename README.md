@@ -10,5 +10,5 @@ sveltekit warrior [definitely knows link syntax in markdown](https://play.tailwi
 [reagan-schedule](https://reagan-schedule.github.io)
 - sveltekit high school bell schedule one-stop shop.
 
-[pokemon-search](pkmn-champions.pages.dev)
+[pokemon-search](https://pkmn-champions.pages.dev)
 - my lightning fast pokemon search app is written in TS for SolidJS.
